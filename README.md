@@ -16,6 +16,7 @@ Most of my work is hands-on: R and JAGS/NIMBLE implementations, simulation studi
 
 - **[PREDOSE](https://github.com/Damitri411/PREDOSE)** — seamless Phase I/II Bayesian PK/PD dose-optimisation framework for oncology step-up dosing (manuscript targeting *JASA*)
 - **[OBDC-Compare-App](https://22c7ba-damitri-kundu.shinyapps.io/OBDC-Compare-App/)** — Shiny app comparing four Bayesian dose-finding designs for two-agent combination trials
+- **PKComb-BOIN12 Simulator** — Shiny app supporting *PKComb-BOIN12: A Pharmacokinetics-Informed Bayesian Optimal Interval Design for Dose Optimization in Cancer Drug-Combination Trials* (manuscript in preparation)
 - **[Estimands-for-Cure-Rate-Model](https://github.com/Damitri411/Estimands-for-Cure-Rate-Model)** — estimand and causal framework for cardiovascular trials with non-susceptible fractions
 
 ### 🧑‍🔬 About Me
