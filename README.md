@@ -30,5 +30,6 @@ Most of my work is hands-on: R and JAGS/NIMBLE implementations, simulation studi
 
 📫 [LinkedIn](https://www.linkedin.com/in/damitri-kundu/) · [Google Scholar](https://scholar.google.com/citations?user=4bn) · [ResearchGate](https://www.researchgate.net/profile/Damitri-K)
 
+Here is my cv if you are interested : [CV](https://github.com/Damitri411/Damitri411/blob/main/DamitriKundu_CV_2026.pdf)
 
 ### Researcher + Collaborative work + Thinking outside the box + Solving problems that impact humanity + Positive mindset + Emotional wellbeing + Progress everyday ---> (1.01)^365
