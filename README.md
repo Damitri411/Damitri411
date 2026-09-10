@@ -10,7 +10,7 @@ Most of my work is hands-on: R and JAGS/NIMBLE implementations, simulation studi
 - **Multi-agent combination designs** — comparing designs (BOIN12, EffTox, COMIC, uTPI-Comb) for two-agent optimal biological dose identification
 - **Cure-rate & survival modelling** — mixture cure models for long-term outcome trials with non-susceptible fractions
 - **Rare-disease trial methodology** — restricted mean duration of response under non-proportional hazards, small-sample group-sequential designs
-- **JAGS + RShiny ↔ NIMBLE model porting**, prior elicitation from published trial data, and simulation-based operating characteristics
+- **R + JAGS + RShiny ↔ NIMBLE model porting**, prior elicitation from published trial data, and simulation-based operating characteristics
 
 ### 📌 My recent projects
 
